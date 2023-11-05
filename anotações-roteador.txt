@@ -1,0 +1,10 @@
+172.17.0.2 - > container nginx
+192.168.0.196 - > host fisico
+
+conta:
+diasesampaio
+redes2023
+
+conta para FTP
+admin
+3XrTtKS2EtOh5uCK
